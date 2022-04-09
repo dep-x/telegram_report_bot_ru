@@ -21,7 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b13b1013-6807-45c5-ac74-f76941a21cbc" name="Default Changelist" comment="updare">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/telegram_db" beforeDir="false" afterPath="$PROJECT_DIR$/telegram_db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/telegram_db.csv" beforeDir="false" afterPath="$PROJECT_DIR$/telegram_db.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1649498169236</updated>
       <workItem from="1649498177462" duration="1105000" />
-      <workItem from="1649500294546" duration="777000" />
+      <workItem from="1649500294546" duration="2060000" />
     </task>
     <task id="LOCAL-00001" summary="updare">
       <created>1649500858782</created>
