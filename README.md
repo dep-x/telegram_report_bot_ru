@@ -7,8 +7,8 @@
 2. Запустите консоль. Для этого используйте комбинацию клавиш Win + R, в появившемся окне напишите cmd и нажмите enter
 3. Далее выполняем следующие команды:
 ```
-git clone https://github.com/Antcating/telegram_report_bot_ua
-cd telegram_report_bot_ua
+git clone https://github.com/dep-x/telegram_report_bot_ru
+cd telegram_report_bot_ru
 pip install -r requirements.txt
 ```
 4. Переходим по ссылке  https://my.telegram.org/, вводим свой номер телефона и код авторизации
